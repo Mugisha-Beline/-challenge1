@@ -13,7 +13,7 @@ By {Moringa school}
 *to list setup instructions
 *in a simple
 *easy-to-understand
-*format 
+## **format** 
 {This app is easier to everyone and it is independent one, and i will be using my own codes and my collaborator's codes}
 
 ## **Known Bugs**
